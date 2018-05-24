@@ -18,7 +18,7 @@ var updateLetterToGuess = function() {
   this.letterToGuess = this.computerChoices[Math.floor(Math.random() * this.computerChoices.length)];
 };
 var updateGuessesSoFar = function() {
-  document.querySelector('#let').innerHTML = "Your Guesses so far: " + guessedLetters.join(', ');
+  document.querySelector('#Guessessofar').innerHTML = "Your Guesses so far: " + guessedLetters.join(', ');
 
 };
 var reset = function() {
