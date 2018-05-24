@@ -1,11 +1,12 @@
 header {
-background-color: lightslategray
+background-color: lightslategray;
 }
 
 h3 {
-    color: lightslategrey
+    color: lightslategrey;
 }
 
 Body {
-    background-color: papayawhip
-}
+    background-color: papayawhip;
+
+}   
