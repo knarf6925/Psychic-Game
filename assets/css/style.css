@@ -1,4 +1,6 @@
 header {
+font-size: 170%;
+
 background-color: lightslategray;
 }
 
@@ -7,6 +9,10 @@ h3 {
 }
 
 Body {
-    background-color: papayawhip;
-
+   
+    background-image: url(../images/green.jpg);
 }   
+
+.list-group {
+    font-size: 120%;
+}

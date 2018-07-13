@@ -23,7 +23,7 @@ var updateGuessesSoFar = function() {
 };
 var reset = function() {
   totalGuesses = 9;
-  guessesLeft = 9;
+  guessesLeft = 9; 
   guessedLetters = [];
 
   updateLetterToGuess();
